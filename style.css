@@ -1,0 +1,141 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/e8/b1/09/e8b1090eaeb9b78fb28cb0b087aefc16.jpg");
+    padding: 10px;
+}
+
+.cont{
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(162, 168, 173, 0.952);
+    padding: 8px;
+}
+
+.org{
+    display: flex;
+    justify-content: space-around;
+}
+
+.teste{
+    text-align: left;
+}
+
+.voltar{
+    background: rgb(2, 134, 134);
+    color: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 80px;
+    padding: 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#continuar1{
+    background: rgb(165, 73, 73);
+    color: white;
+    border-radius: 50%;
+    width: 180px;
+    height: 70px;
+    padding: 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#continuar2{
+    background: rgb(165, 73, 73);
+    color: white;
+    border-radius: 50%;
+    width: 180px;
+    height: 70px;
+    padding: 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#continuar3{
+    background: rgb(165, 73, 73);
+    color: white;
+    border-radius: 50%;
+    width: 180px;
+    height: 70px;
+    padding: 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#continuar4{
+    background: rgb(165, 73, 73);
+    color: white;
+    border-radius: 50%;
+    width: 180px;
+    height: 70px;
+    padding: 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#bt_iniciar{
+    background: blueviolet;
+    color: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 80px;
+    padding: 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#dnv{
+    background: blueviolet;
+    color: white;
+    border-radius: 50%;
+    width: 200px;
+    height: 80px;
+    padding: 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#img{
+    border-radius: 50%;
+    width: 340px;
+    height: 340px;
+}
+
+#kkkk{
+    padding: 20px;
+}
+
+#tela6{
+    text-align: left;
+}
+
+
+#corpo{
+    margin-left: 50px;
+}
+#cerebro{
+    margin-top: -60px;
+    margin-left: 469px;
+    position: absolute;
+}
+#pulmao{
+    margin-top: 123px;
+    margin-left: 449px;
+    position: absolute;
+}
+#coracao{
+    margin-top: 265px;
+    margin-left: 633px;
+    position: absolute;
+}
+#figado{
+    margin-top: 440px;
+    margin-left: 521px;
+    position: absolute;
+}
+#rim{
+    margin-top: 605px;
+    margin-left: 526px;
+    position: absolute;
+}
